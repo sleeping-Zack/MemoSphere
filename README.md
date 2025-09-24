@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/sleeping-Zack/my-images/main/img/screenshot2025-09-24.png)
+<sub>预期效果图如上(图片来自抖音@电烙铁大师兄)</sub>
 ---
 
 # 📄 README.md
@@ -8,7 +9,7 @@
 
 MemoSphere 是一个基于 **AI + 语音交互 + 虚拟人物渲染** 的创新项目。  
 用户可以通过语音与“水晶球中的虚拟人物”自然对话，角色会实时回复、动嘴、变表情，带来沉浸式的陪伴体验。  
-预期效果图如上
+
 
 ---
 
