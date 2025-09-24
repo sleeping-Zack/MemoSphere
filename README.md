@@ -9,7 +9,7 @@
 MemoSphere 是一个基于 **AI + 语音交互 + 虚拟人物渲染** 的创新项目。  
 用户可以通过语音与“水晶球中的虚拟人物”自然对话，角色会实时回复、动嘴、变表情，带来沉浸式的陪伴体验。  
 预期效果图:
-![屏幕截图 2025-09-24 190812](https://github.com/sleeping-Zack/my-images/raw/main/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-24%20190812.png)
+![屏幕截图 2025-09-24 190812](https://github.com/sleeping-Zack/my-images/raw/main/img/202025-09-24%20190812.png)
 ---
 
 ## ✨ Features
